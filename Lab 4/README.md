@@ -14,4 +14,4 @@ In the picture above there is no inputs, hence no led lights created.
 The pro
 
 
-![](Pics/P2.jpg)
+![](Pics/P3.jpg)
